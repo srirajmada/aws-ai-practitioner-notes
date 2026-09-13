@@ -10,7 +10,7 @@
 | [02-governance-compliance.md](02-governance-compliance.md) | 5.2 | Config/CloudTrail/Artifact/Inspector/Trusted Advisor, **the Generative AI Security Scoping Matrix**, data governance, governance processes |
 | [flashcards.md](flashcards.md) | both | Rapid recall drilling |
 
-Official objectives: [exam-guide/05-domain-security-compliance-governance.md](../../exam-guide/05-domain-security-compliance-governance.md)
+Official objectives: [AWS exam guide — Domain 5 ↗](https://docs.aws.amazon.com/aws-certification/latest/ai-practitioner-01/ai-practitioner-01-domain5.html)
 
 ## The ten things most likely to be tested
 

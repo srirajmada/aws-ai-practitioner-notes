@@ -11,7 +11,7 @@
 | [03-aws-genai-infrastructure.md](03-aws-genai-infrastructure.md) | 2.3 | Bedrock, SageMaker AI, JumpStart, Quick, Kiro, Strands Agents, AgentCore, and the cost tradeoffs |
 | [flashcards.md](flashcards.md) | all | Rapid recall drilling |
 
-Official objectives: [exam-guide/02-domain-genai-fundamentals.md](../../exam-guide/02-domain-genai-fundamentals.md)
+Official objectives: [AWS exam guide — Domain 2 ↗](https://docs.aws.amazon.com/aws-certification/latest/ai-practitioner-01/ai-practitioner-01-domain2.html)
 
 ## The ten things most likely to be tested
 

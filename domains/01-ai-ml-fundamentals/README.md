@@ -11,7 +11,7 @@
 | [03-ai-ml-development-lifecycle.md](03-ai-ml-development-lifecycle.md) | 1.3 | ML pipeline stages, FM sources, deployment methods, MLOps, model + business metrics |
 | [flashcards.md](flashcards.md) | all | Rapid recall drilling |
 
-Official objectives: [exam-guide/01-domain-ai-ml-fundamentals.md](../../exam-guide/01-domain-ai-ml-fundamentals.md)
+Official objectives: [AWS exam guide — Domain 1 ↗](https://docs.aws.amazon.com/aws-certification/latest/ai-practitioner-01/ai-practitioner-01-domain1.html)
 
 ## The ten things most likely to be tested
 

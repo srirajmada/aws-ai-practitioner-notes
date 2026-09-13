@@ -12,7 +12,7 @@
 | [04-fm-evaluation.md](04-fm-evaluation.md) | 3.4 | ROUGE/BLEU/BERTScore, LLM-as-a-judge, RAG and agent evaluation, business metrics |
 | [flashcards.md](flashcards.md) | all | Rapid recall drilling |
 
-Official objectives: [exam-guide/03-domain-foundation-model-applications.md](../../exam-guide/03-domain-foundation-model-applications.md)
+Official objectives: [AWS exam guide — Domain 3 ↗](https://docs.aws.amazon.com/aws-certification/latest/ai-practitioner-01/ai-practitioner-01-domain3.html)
 
 ## The twelve things most likely to be tested
 

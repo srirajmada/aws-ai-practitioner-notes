@@ -9,12 +9,14 @@ These aren't a transcript of a course. They're built around the things that are 
 ## What's here
 
 ```
-exam-guide/   Objectives transcribed from the official AWS exam guide
-domains/      One folder per exam domain, one file per task statement
-services/     Service-level reference notes
+exam-guide.md   Domains, weightings and links to the official AWS exam guide
+domains/        One folder per exam domain, one file per task statement
+services/       Service-level reference notes
 ```
 
 ### The five domains
+
+Weightings, links to the official objectives, and exam format: **[exam-guide.md](exam-guide.md)**
 
 | Domain | Weight | Notes |
 |---|---|---|

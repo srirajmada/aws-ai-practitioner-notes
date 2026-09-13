@@ -1,3 +1,0 @@
-# Technologies and Concepts
-
-> TODO

@@ -10,7 +10,7 @@
 | [02-transparency-explainability.md](02-transparency-explainability.md) | 4.2 | Transparency vs. explainability, Model Cards and AI Service Cards, the accuracy/interpretability tradeoff, human-centred design |
 | [flashcards.md](flashcards.md) | both | Rapid recall drilling |
 
-Official objectives: [exam-guide/04-domain-responsible-ai.md](../../exam-guide/04-domain-responsible-ai.md)
+Official objectives: [AWS exam guide — Domain 4 ↗](https://docs.aws.amazon.com/aws-certification/latest/ai-practitioner-01/ai-practitioner-01-domain4.html)
 
 ## The nine things most likely to be tested
 
